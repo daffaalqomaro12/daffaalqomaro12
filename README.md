@@ -1,8 +1,11 @@
 # 💫 About Me:
 ## Hello there, I'm Daffa Al Qomaro, and welcome to my github
-Here's some a little bit about me
+Here's some a little bit about me:
+
 I'm currently learning about game development, especially using unity engine, and
+
 I'm currently studying on Electronic Engineering Polytechnic Institute of Surabaya, Game Technology study program.
+
 Feel free to reach out to me on my social media below!
 
 ## 🌐 Socials:
