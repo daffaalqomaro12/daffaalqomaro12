@@ -1,6 +1,6 @@
 # 💫 About Me:
 ## Hello there, I'm Daffa Al Qomaro, and welcome to my github
-Here's some a little bit about me:
+Here's a little bit about me:
 
 I'm currently learning about game development, especially using unity engine, and
 
