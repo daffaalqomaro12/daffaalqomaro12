@@ -1,6 +1,9 @@
 # 💫 About Me:
-I'm currently studying on Electronic Engineering Polytechnic Institute of Surabaya
-
+## Hello there, I'm Daffa Al Qomaro, and welcome to my github
+Here's some a little bit about me
+I'm currently learning about game development, especially using unity engine, and
+I'm currently studying on Electronic Engineering Polytechnic Institute of Surabaya, Game Technology study program.
+Feel free to reach out to me on my social media below!
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/DaffaAlQomaro) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/daffaalq_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:daffaalqomaro123@gmail.com) 
