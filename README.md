@@ -7,6 +7,7 @@ I'm currently learning about game development, especially using unity engine, an
 I'm currently studying on Electronic Engineering Polytechnic Institute of Surabaya, Game Technology study program.
 
 Feel free to reach out to me on my social media below! and don't forget check my itch.io!
+
 https://alqmr.itch.io/
 
 ## 🌐 Socials:
